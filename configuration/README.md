@@ -1,1 +1,1 @@
-ToDo
+All configuration management code is placed under configuration folder which has subfolders for providers (puppet and chef). Below these folders we have folders containing third-party packages as Git submodules (Pupppet modules or Chef cookbooks). These modules are responsible for configuring individual servers but they can also be used for application deployment.
